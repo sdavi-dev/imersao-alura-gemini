@@ -1,4 +1,4 @@
-## **## Desvendando os Atletas do Brasil: Um Guia Rápido para Devs Curiosos**
+**## Desvendando os Atletas do Brasil: Um Guia Rápido para Devs Curiosos**
 
 ### **O que faz essa aplicação?**
 Imagina um buscador super poderoso que te leva direto para o universo dos atletas brasileiros! Com essa aplicação, você pode digitar o nome de qualquer atleta ou esporte e pronto: uma lista personalizada com informações detalhadas sobre cada um aparece na tela. É como ter uma enciclopédia esportiva sempre à mão!
